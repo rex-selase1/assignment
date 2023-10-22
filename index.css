@@ -57,8 +57,8 @@ nav>ul>li>a{
 }
 .Profile{
  
-    margin: 50px;
-    padding-left: 30%;
+    margin:50px 645px auto;
+    /* padding-left: 30%; */
     
     padding-top: 0.9%;
     display: flex;
@@ -67,7 +67,7 @@ nav>ul>li>a{
 
 .profileInfo{
     margin: 45px;
-    padding-left: 30px;
+    padding-left: 10px;
     text-align: center;
     line-height: 0.9;
 }
