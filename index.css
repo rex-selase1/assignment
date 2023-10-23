@@ -23,7 +23,7 @@ header{
 }
 
 img{
-    width:180px;
+    width:150px;
     height: 200px;
     border-radius: 0px;
 }
@@ -36,7 +36,7 @@ nav{
    
 }
 nav > ul{
-    padding-left: 10px;
+    padding-left: 90px;
 }
 nav>ul>li{
     list-style: none;
@@ -57,9 +57,9 @@ nav>ul>li>a{
 }
 .Profile{
  
-    margin:30px ;
-     padding-left: 33%;
+    width: 25%;
     
+    margin: auto;
     padding-top: 0.9%;
     display: flex;
     
@@ -67,7 +67,7 @@ nav>ul>li>a{
 
 .profileInfo{
     margin: 45px;
-    padding-left: 40px;
+    padding-left:15px;
     text-align: center;
     line-height: 0.9;
 }
@@ -109,10 +109,10 @@ margin-top: 5px;
 
 
 .project>img {
-    margin: 60px;
+    margin: 40px;
     /* border-radius: 5px; */
-    width: 190px;
-    height: 150px;
+    width: 130px;
+    height: 120px;
     /* border: 1px solid; */
 }
 .project>h3 , .project>p {
